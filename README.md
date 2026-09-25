@@ -20,7 +20,7 @@ A standard, production-ready **ERC-20 token** built using secure smart contract 
 
 The smart contract source code has been verified and published. You can interact with the contract directly via the blockchain explorer:
 
-👉 [View Contract on LitVM Explorer](https://caldera.xyz)
+👉 [View Contract on LitVM Explorer](https://liteforge.explorer.caldera.xyz/address/0xF9dCa8d53F75D7f294380b3A0575DD42c0DC6BC9?tab=contract)
 
 ## 📂 Project Structure
 
